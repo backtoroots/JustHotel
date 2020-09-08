@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_reservation"
+            android:title="@string/reservation" />
+        <item
+            android:id="@+id/nav_about_hotel"
+            android:title="@string/about_hotel" />
+        <item
+            android:id="@+id/nav_news_and_discounts"
+            android:title="@string/news_and_hotel" />
+        <item
+            android:id="@+id/nav_on_map"
+            android:title="@string/on_map" />
+
+    </group>
+</menu>

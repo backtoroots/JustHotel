@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Эконом отель</string>
+    <string name="app_logo">App logo</string>
+    <string name="app_full_name">Отель Дешево и удобно</string>
+    <string name="settings">Settings</string>
+    <string name="reservation">Бронирование</string>
+    <string name="about_hotel">О отеле</string>
+    <string name="news_and_hotel">Новости и скидки</string>
+    <string name="on_map">На карте</string>
+</resources>
